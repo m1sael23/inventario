@@ -1,0 +1,9 @@
+.color-menu {
+  background-color: #000000 !important;
+  /* Los textos textos los ponemos en blanco para que haga contraste */
+  color: rgb(255, 255, 255) !important;
+}
+
+.titulo-menu {
+  margin-left: 10px;
+}
